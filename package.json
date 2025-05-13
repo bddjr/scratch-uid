@@ -1,0 +1,20 @@
+{
+  "name": "scratch-uid",
+  "version": "3.0.0",
+  "description": "Generate unique identifier for scratch blocks, varibles or lists.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "scratch",
+    "scratch3",
+    "id",
+    "uid",
+    "uuid"
+  ],
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bddjr/scratch-uid.git"
+  }
+}
