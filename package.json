@@ -1,10 +1,16 @@
 {
   "name": "scratch-uid",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Generate unique identifier for scratch blocks, varibles or lists.",
-  "type": "module",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "type": "commonjs",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "browser": "./browser.min.js",
+  "files": [
+    "./index.js",
+    "./index.d.ts",
+    "./browser.min.js"
+  ],
   "keywords": [
     "scratch",
     "scratch3",
